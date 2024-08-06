@@ -1,4 +1,4 @@
-import { prisma } from "./prisma-client";
+/*import { prisma } from "./prisma-client";
 
 async function up() {
     await prisma.user.createMany({
@@ -27,4 +27,4 @@ async function main(){
     } catch(e) {
         console.error(e);
     }
-}
+}*/
